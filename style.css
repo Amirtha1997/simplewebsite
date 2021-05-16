@@ -26,5 +26,6 @@ float:right;
 }
 
 @media screen and (max-width:800px){
-width:100%
+body, .login-box, .form-control
+width:100%;
 }
