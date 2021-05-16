@@ -24,3 +24,7 @@ background-color:transparent:important;
 .log-right{
 float:right;
 }
+
+@media screen and (max-width:800px){
+width:100%
+}
